@@ -1,0 +1,17 @@
+# Build outputs
+/build/
+*.class
+
+# Eclipse specific (optional to ignore or commit)
+.metadata/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
+
+# OS generated files
+.DS_Store
+Thumbs.db
